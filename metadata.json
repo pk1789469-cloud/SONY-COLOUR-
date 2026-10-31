@@ -1,0 +1,6 @@
+{
+  "name": "TG Gaming Owner",
+  "description": "TG Gaming Owner - Premium Color Trading Game (Win Go / Ok Win / Tiranga Style) with UPI auto payment, QR scanner, Admin control & instant betting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
